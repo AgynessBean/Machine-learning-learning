@@ -6,4 +6,4 @@ The first somewhat successfully completed project is using a hospital readmissio
 
 The second project is a data cleaning project using the MET dataset, also obtained from Kaggle. The dataset itself is very large, hence absent from the repository. In the cleaning project, I deal with duplicates and missing values. The notebook features a detailed narrative.
 
-The third project is still pending.
+The third project is a Man of the Match prediction exercise using the FIFA 2018 dataset. The point of this project was to use a little bit more advanced data pre-processign techniques (as well as more advanced syntax). After running, I compare this approach with the more rudimentary data pre-processing approach and find a similar model performance.
